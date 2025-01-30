@@ -1,0 +1,11 @@
+@media screen and (max-width: 430px) {
+  .container {
+    border: 1px solid hsl(0, 0%, 25%);
+    overflow: hidden;
+    border-radius: 0px;
+    padding: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 98.5vh;
+  }
+}
